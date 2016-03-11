@@ -1,0 +1,6 @@
+#+STARTUP: showall
+#+TITLE: Japanese
+#+AUTHOR: http://h4labs.com
+#+EMAIL: melling@h4labs.com
+
+* Inbox
