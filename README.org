@@ -4,6 +4,34 @@
 #+EMAIL: melling@h4labs.com
 
 * Inbox
++ https://www.reddit.com/r/languagelearning/comments/3pxikz/oxford_university_language_centre_less_commonly
++ http://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning
++ http://www.technologyreview.com/news/539096/getting-fluent
++ http://www.reddit.com/r/languagelearning/comments/3cnrbz/zero_nice_short_animated_movie_with_subs_in_more
++ http://www.reddit.com/r/languagelearning/comments/1wo6yd/list_of_51_books_about_how_to_learn_foreign
++ http://www.reddit.com/r/LearnJapanese/comments/3b1wnw/learning_texts_with_anki_instead_of_vocabulary
++ http://www.reddit.com/r/languagelearning/comments/3b0g92/this_is_even_better_than_the_fsi_courses
++ http://www.reddit.com/r/languagelearning/comments/39l694/how_to_create_frequency_lists_in_other_languages
++ http://news.ycombinator.com/item?id=9707190
++ http://news.ycombinator.com/item?id=9692368
++ http://sourceforge.net/projects/arabic-wordlist
++ http://howtoremember.biz/content/how-flashcards-fail-confessions-tired-memory-guy
++ http://www.bbc.com/future/story/20150528-how-to-learn-30-languages
++ http://www.reddit.com/r/Korean/comments/37finj/finally_a_quick_way_to_learn_korean_vocabulary
++ http://www.memrise.com/user/Baas/courses/teaching
++ http://www.reddit.com/r/languagelearning/comments/2kd0np/best_apps_for_language_learning/
++ http://news.ycombinator.com/item?id=7394879 - The Truth About Speed Reading (lifehacker.com)
++ http://news.ycombinator.com/item?id=7539390 - Spaced Repitition (gwern.net)
++ http://news.ycombinator.com/item?id=5965081 - Best ways to learn a foreign language (domenicodefelice.blogspot.it)
++ http://news.ycombinator.com/item?id=6962122 - Ask HN: What's the best way for a foreigner to improve English to a great level?
++ http://news.ycombinator.com/item?id=7610586 - A powerful, precise language aptitude test is entering civilian life (nautil.us)
++ http://news.ycombinator.com/item?id=8052589 - The Benefits of Failing at French (nytimes.com)
++ http://www.nytimes.com/2014/07/20/travel/inventive-cheaper-tools-for-learning-a-language.html?_r=1
++ http://www.reddit.com/r/languagelearning/comments/2wzvgb/beginning_anki_user/
++ http://lang-8.com
 
+* Resources
+
++ http://www.theguardian.com/education/2015/feb/09/top-podcasts-learning-language-german-japanese
 
 * General Language Learning
