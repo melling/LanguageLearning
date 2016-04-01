@@ -35,3 +35,8 @@
 + http://www.theguardian.com/education/2015/feb/09/top-podcasts-learning-language-german-japanese
 
 * General Language Learning
+
+* Spaced Repetition
+
++ https://www.gwern.net/Spaced%20repetition
++ http://experiments.oskarth.com/srspractice/
