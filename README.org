@@ -42,3 +42,5 @@
 + https://www.gwern.net/Spaced%20repetition
  - http://news.ycombinator.com/item?id=7539390 - Spaced Repitition (gwern.net)
 + http://experiments.oskarth.com/srspractice/
+ - https://news.ycombinator.com/item?id=11408447
+ 
