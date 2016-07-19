@@ -28,7 +28,10 @@
 + http://russificateschool.com/verbs-motion-beginner-level
 + http://reganmian.net/blog/2014/04/16/creating-anki-cards-for-russian-coursera-mooc-with-stemming-and-frequency-lists/
 + https://www.reddit.com/r/russian/comments/4mp5nc/a_channel_with_some_nice_informative_videos_to/
++ http://en.wikipedia.org/wiki/Russian_alphabet
++ http://www.russianforeveryone.com/RufeA/Lessons/Introduction/Alphabet/Alphabet.htm
++ http://www.youtube.com/watch?v=RhrSpf8kaqQ
 
 * Gender
 
-http://www.russianlessons.net/grammar/nouns_gender.php
++ http://www.russianlessons.net/grammar/nouns_gender.php
