@@ -36,3 +36,4 @@ http://en.m.wikipedia.org/wiki/Hiragana
 
 + http://www.kanjidamage.com/
  - Official Anki deck: https://ankiweb.net/shared/info/748570187
++ http://kanjialive.com/
