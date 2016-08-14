@@ -30,3 +30,9 @@
 * Hiragana
 
 http://en.m.wikipedia.org/wiki/Hiragana
+
+
+* Kanji
+
++ http://www.kanjidamage.com/
+ - Official Anki deck: https://ankiweb.net/shared/info/748570187
