@@ -31,7 +31,7 @@
 
 + http://en.m.wikipedia.org/wiki/Hiragana
 + http://langintro.com/kana/lets_read_hiragana.pdf
-+ [[http://langintro.com/kana/][Let's Read Hiragana]]
+ - [[http://langintro.com/kana/][Let's Read Hiragana]]
 
 * Kanji
 
