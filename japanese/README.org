@@ -5,6 +5,7 @@
 
 * Inbox
 
++ [[http://forum.koohii.com/index.php][kanji koohii Forum]]
 + https://pomax.github.io/nrGrammar/
  - https://news.ycombinator.com/item?id=12284967
 + http://www.reddit.com/r/LearnJapanese/comments/3xiqt5/ive_found_kanji_learning_resource_similar_to
@@ -29,8 +30,9 @@
 
 * Hiragana
 
-http://en.m.wikipedia.org/wiki/Hiragana
-
++ http://en.m.wikipedia.org/wiki/Hiragana
++ http://langintro.com/kana/lets_read_hiragana.pdf
++ [[http://langintro.com/kana/][Let's Read Hiragana]]
 
 * Kanji
 
