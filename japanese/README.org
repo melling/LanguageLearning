@@ -5,7 +5,6 @@
 
 * Inbox
 
-+ [[http://forum.koohii.com/index.php][kanji koohii Forum]]
 + https://pomax.github.io/nrGrammar/
  - https://news.ycombinator.com/item?id=12284967
 + http://www.reddit.com/r/LearnJapanese/comments/3xiqt5/ive_found_kanji_learning_resource_similar_to
@@ -39,3 +38,4 @@
 + http://www.kanjidamage.com/
  - Official Anki deck: https://ankiweb.net/shared/info/748570187
 + http://kanjialive.com/
++ [[http://forum.koohii.com/index.php][kanji koohii Forum]]
