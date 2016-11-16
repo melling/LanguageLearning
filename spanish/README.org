@@ -4,6 +4,7 @@
 #+EMAIL: melling@h4labs.com
 
 * Inbox
++ [[http://web.uvic.ca/hrd/span100/index.htm][University of Victoria]]
 + http://frequencylists.blogspot.com.br/2015/08/the-1000-most-frequently-used-spanish.html
 + http://www.reddit.com/r/Spanish/comments/3ohhmc/tips_on_how_to_roll_rs
 + http://www.reddit.com/r/Spanish/comments/3jij6z/good_resources_on_the_rules_of_spanish
