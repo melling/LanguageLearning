@@ -45,4 +45,5 @@
  - http://news.ycombinator.com/item?id=7539390 - Spaced Repitition (gwern.net)
 + http://experiments.oskarth.com/srspractice/
  - https://news.ycombinator.com/item?id=11408447
- 
++ https://collegeinfogeek.com/spaced-repetition-memory-technique/
+ - https://news.ycombinator.com/item?id=14155074
