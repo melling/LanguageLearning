@@ -5,6 +5,7 @@
 
 * Inbox
 
++ https://www.reddit.com/r/LearnJapanese/comments/743n1h/i_made_this_for_figuring_out_which_group_an/
 + http://making.duolingo.com/how-we-invented-a-new-way-to-teach-one-of-the-most-difficult-languages-to-learn
  - https://news.ycombinator.com/item?id=14373231
 + [[https://www.reddit.com/r/LearnJapanese/comments/54fgqs/mit_open_japanese_course/][MIT Open Japanese Course]]
