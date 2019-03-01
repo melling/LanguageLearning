@@ -1,6 +1,0 @@
-#+STARTUP: showall
-#+TITLE: Swedish
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
-
-* Inbox
