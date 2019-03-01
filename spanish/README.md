@@ -1,11 +1,9 @@
-#+STARTUP: showall
-#+TITLE: Spanish
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
+# Spanish
 
-* Inbox
+## Inbox
+
 + https://www.reddit.com/r/learnspanish/comments/5wcyb2/a_little_cheat_sheet_i_made_on_the_100_most/
-+ [[http://web.uvic.ca/hrd/span100/index.htm][University of Victoria]]
++ [University of Victoria](http://web.uvic.ca/hrd/span100/index.htm)
 + http://frequencylists.blogspot.com.br/2015/08/the-1000-most-frequently-used-spanish.html
 + http://www.reddit.com/r/Spanish/comments/3ohhmc/tips_on_how_to_roll_rs
 + http://www.reddit.com/r/Spanish/comments/3jij6z/good_resources_on_the_rules_of_spanish
@@ -17,11 +15,14 @@
 + http://www.reddit.com/r/learnspanish/comments/2yr1co/comprehensive_guide_to_the_complicated_world_of
 + http://www.reddit.com/r/learnspanish/comments/3ae75u/spanish_grammar_review_for_advanced
 + http://www.reddit.com/r/learnspanish/comments/3ales0/what_is_the_difference_between_caminar_and_andar
-* In Spanish
+
+## In Spanish
+
 + http://espanol.lingolia.com/es/gramatica/tiempos/preterito-imperfecto
 + http://www.multikultura.org.uk/spanish/spanish.php
 
-* In  English
+## In  English
+
 + http://www.pblinthetl.com/2015/04/10-essential-verbs-for-novice-spanish.html
 + http://www.reddit.com/r/Spanish/comments/zb2ng/using_the_internet_to_learn_spanish_a_guide/
 + http://www.reddit.com/r/learnspanish/comments/2xfdmk/need_translation_of_a_few_uncommon_words_tennis
