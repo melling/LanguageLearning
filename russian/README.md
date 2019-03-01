@@ -1,9 +1,7 @@
-#+STARTUP: showall
-#+TITLE: Russian
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
+# Russian
 
-* Inbox
+## Inbox
+
 + https://www.reddit.com/r/russian/comments/5j6rig/adjectives_full_form_vs_short_form/
 + https://www.reddit.com/r/russian/comments/5demh1/preposition_of_place_in_russian/
 + https://github.com/trevorarjeski/russian_language_tools
@@ -34,6 +32,6 @@
 + http://www.russianforeveryone.com/RufeA/Lessons/Introduction/Alphabet/Alphabet.htm
 + http://www.youtube.com/watch?v=RhrSpf8kaqQ
 
-* Gender
+## Gender
 
 + http://www.russianlessons.net/grammar/nouns_gender.php
