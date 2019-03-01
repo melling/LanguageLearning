@@ -1,8 +1,0 @@
-#+STARTUP: showall
-#+TITLE: Arabic
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
-
-* Inbox
-
-+ https://www.reddit.com/r/learn_arabic
