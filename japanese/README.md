@@ -1,17 +1,14 @@
-#+STARTUP: showall
-#+TITLE: Japanese
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
+# Japanese
 
-* Inbox
+## Inbox
 
 + https://www.reddit.com/r/LearnJapanese/comments/7h6vwi/everything_i_used_to_learn_japanese/
 + https://www.reddit.com/r/LearnJapanese/comments/743n1h/i_made_this_for_figuring_out_which_group_an/
 + http://making.duolingo.com/how-we-invented-a-new-way-to-teach-one-of-the-most-difficult-languages-to-learn
- - https://news.ycombinator.com/item?id=14373231
-+ [[https://www.reddit.com/r/LearnJapanese/comments/54fgqs/mit_open_japanese_course/][MIT Open Japanese Course]]
+   - https://news.ycombinator.com/item?id=14373231
++ [MIT Open Japanese Course](https://www.reddit.com/r/LearnJapanese/comments/54fgqs/mit_open_japanese_course/)
 + https://pomax.github.io/nrGrammar/
- - https://news.ycombinator.com/item?id=12284967
+   - https://news.ycombinator.com/item?id=12284967
 + http://www.reddit.com/r/LearnJapanese/comments/3xiqt5/ive_found_kanji_learning_resource_similar_to
 + http://www.reddit.com/r/LearnJapanese/comments/3w826o/best_japanese_podcasts_to_learn_the_language/
 + https://www.reddit.com/r/LearnJapanese/comments/s2iop/heres_a_spreadsheet_of_the_6000_most_common/
@@ -33,15 +30,15 @@
 + http://www.reddit.com/r/LearnJapanese/comments/2s55tz/3002_most_used_kanji_makes_up_95_of_whats_in/
 
 
-* Hiragana
+## Hiragana
 
 + http://en.m.wikipedia.org/wiki/Hiragana
 + http://langintro.com/kana/lets_read_hiragana.pdf
- - [[http://langintro.com/kana/][Let's Read Hiragana]]
+   - [Let's Read Hiragana](http://langintro.com/kana/)
 
-* Kanji
+## Kanji
 
 + http://www.kanjidamage.com/
  - Official Anki deck: https://ankiweb.net/shared/info/748570187
 + http://kanjialive.com/
-+ [[http://forum.koohii.com/index.php][kanji koohii Forum]]
++ [kanji koohii Forum](http://forum.koohii.com/index.php)
