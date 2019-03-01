@@ -1,9 +1,6 @@
-#+STARTUP: showall
-#+TITLE: Danish
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
+# Danish
 
-* Inbox
+## Inbox
 
 + https://learnoasis.com/languages/learn-danish/
 + http://www.loecsen.com/en/learn-danish
