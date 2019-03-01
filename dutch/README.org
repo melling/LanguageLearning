@@ -1,6 +1,0 @@
-#+STARTUP: showall
-#+TITLE: Dutch
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
-
-* Inbox
