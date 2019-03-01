@@ -1,9 +1,6 @@
-#+STARTUP: showall
-#+TITLE: Mandarin
-#+AUTHOR: http://h4labs.com
-#+EMAIL: melling@h4labs.com
+# Mandarin
 
-* Inbox
+## Inbox
 
 + https://www.reddit.com/r/Chinese/comments/7ub1sl/huge_list_of_chinese_learning_resources/
 + http://chinese.yabla.com/chinese-pinyin-chart.php
@@ -21,5 +18,6 @@
 + http://webdesign.tutsplus.com/articles/the-complete-beginners-guide-to-chinese-fonts--cms-23444
 + http://www.reddit.com/r/ChineseLanguage/comments/3ah7xv/using_the_kindle_to_learn_chinese_effectively_how
 
-* Colors
+## Colors
+
 + https://www.reddit.com/r/Chinese/comments/4hy7g4/chinese_colour_wheel_i_made/
