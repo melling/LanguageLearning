@@ -37,8 +37,12 @@
 
 ## General Language Learning
 
-## Spaced Repetition
+- https://drive.google.com/file/d/1JCHkqVoX598Ob_111khrGoJ5cpeh_ahU/view
 
+### Spaced Repetition
+
+- [JAnki Method Refined](https://www.jackkinsella.ie/articles/janki-method-refined)
+- [JAnki Method](http://www.jackkinsella.ie/articles/janki-method)
 - https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering
     - https://news.ycombinator.com/item?id=19529236
 - http://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning
