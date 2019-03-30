@@ -1,6 +1,7 @@
 # Language Learning Resources
 
 ## Inbox
+
 + http://www.nytimes.com/2016/11/23/theater/how-to-master-an-accent.html?_r=0
    - https://news.ycombinator.com/item?id=13068124
 + https://www.reddit.com/r/languagelearning/comments/3pxikz/oxford_university_language_centre_less_commonly
@@ -28,20 +29,22 @@
 
 ## Resources
 
-+ http://www.theguardian.com/education/2015/feb/09/top-podcasts-learning-language-german-japanese
+- http://www.theguardian.com/education/2015/feb/09/top-podcasts-learning-language-german-japanese
 
 ## Anki
 
-+ http://www.reddit.com/r/LearnJapanese/comments/3b1wnw/learning_texts_with_anki_instead_of_vocabulary
+- http://www.reddit.com/r/LearnJapanese/comments/3b1wnw/learning_texts_with_anki_instead_of_vocabulary
 
 ## General Language Learning
 
 ## Spaced Repetition
 
-+ http://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning
-+ https://www.gwern.net/Spaced%20repetition
+- https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering
+    - https://news.ycombinator.com/item?id=19529236
+- http://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning
+- https://www.gwern.net/Spaced%20repetition
    - http://news.ycombinator.com/item?id=7539390 - Spaced Repitition (gwern.net)
-+ http://experiments.oskarth.com/srspractice/
+- http://experiments.oskarth.com/srspractice/
    - https://news.ycombinator.com/item?id=11408447
-+ https://collegeinfogeek.com/spaced-repetition-memory-technique/
+- https://collegeinfogeek.com/spaced-repetition-memory-technique/
    - https://news.ycombinator.com/item?id=14155074
