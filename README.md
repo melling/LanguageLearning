@@ -34,6 +34,8 @@
 ## Anki
 
 - http://www.reddit.com/r/LearnJapanese/comments/3b1wnw/learning_texts_with_anki_instead_of_vocabulary
+- [Everything I Know: Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki)
+    - https://news.ycombinator.com/item?id=19831526
 
 ## General Language Learning
 
