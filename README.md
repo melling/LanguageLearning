@@ -46,8 +46,9 @@
 - https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering
     - https://news.ycombinator.com/item?id=19529236
 - http://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning
-- https://www.gwern.net/Spaced%20repetition
+- https://www.gwern.net/Spaced-repetition
    - http://news.ycombinator.com/item?id=7539390 - Spaced Repitition (gwern.net)
+   - https://news.ycombinator.com/item?id=19827910
 - http://experiments.oskarth.com/srspractice/
    - https://news.ycombinator.com/item?id=11408447
 - https://collegeinfogeek.com/spaced-repetition-memory-technique/
