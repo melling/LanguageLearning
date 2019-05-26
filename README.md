@@ -33,6 +33,8 @@
 
 ## Anki
 
+- [13 Lucky Tips for using Anki and Spaced Repetition in 2019](https://getpolarized.io/2019/05/25/13-lucky-tips-for-using-anki-and-spaced-repetition-2019.html)
+   - https://news.ycombinator.com/item?id=20015406
 - http://www.reddit.com/r/LearnJapanese/comments/3b1wnw/learning_texts_with_anki_instead_of_vocabulary
 - [Everything I Know: Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki)
     - https://news.ycombinator.com/item?id=19831526
