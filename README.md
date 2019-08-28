@@ -45,6 +45,7 @@
 
 ### Spaced Repetition
 
+- http://augmentingcognition.com/ltm.html
 - [JAnki Method Refined](https://www.jackkinsella.ie/articles/janki-method-refined)
 - [JAnki Method](http://www.jackkinsella.ie/articles/janki-method)
 - https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering
