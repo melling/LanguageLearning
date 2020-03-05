@@ -47,6 +47,8 @@
 ### Spaced Repetition
 
 - https://sivers.org/srs
+- https://superorganizers.substack.com/p/how-to-build-a-learning-machine
+   - https://news.ycombinator.com/item?id=22492381
 - http://augmentingcognition.com/ltm.html
 - [JAnki Method Refined](https://www.jackkinsella.ie/articles/janki-method-refined)
 - [JAnki Method](http://www.jackkinsella.ie/articles/janki-method)
