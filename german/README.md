@@ -7,7 +7,7 @@
 + https://www.reddit.com/r/German/comments/4c5s8e/i_made_a_list_of_german_phrases_for_beginners_to/
 + http://www.reddit.com/r/German/comments/3k1jt3/whats_the_best_way_to_master_the_verbs_with
 + [Synonyms](http://synonyme.woxikon.de)
-+ [Learn German On Reddit With These 22 German Subreddits(http://learnoutlive.com/learn-german-subreddits/)
++ [Learn German On Reddit With These 22 German Subreddits](http://learnoutlive.com/learn-german-subreddits/)
 + http://www.reddit.com/r/German/comments/3er4ow/which_books_to_compliment_duolinguo
 + http://www.reddit.com/r/languagelearning/comments/3b0czy/possible_to_become_collegelevel_fluent_in_german
 + http://www.reddit.com/r/German/comments/3aw5p3/ive_put_a_lot_of_time_into_developing_this_anki
