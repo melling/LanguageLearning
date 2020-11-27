@@ -47,6 +47,8 @@
 
 ### Spaced Repetition
 
+- https://productive.fish/blog/spaced-repetition/
+   - https://news.ycombinator.com/item?id=25226621
 - https://sivers.org/srs
 - https://superorganizers.substack.com/p/how-to-build-a-learning-machine
    - https://news.ycombinator.com/item?id=22492381
