@@ -18,6 +18,7 @@
 + http://webdesign.tutsplus.com/articles/the-complete-beginners-guide-to-chinese-fonts--cms-23444
 + http://www.reddit.com/r/ChineseLanguage/comments/3ah7xv/using_the_kindle_to_learn_chinese_effectively_how
 + https://resources.allsetlearning.com/chinese/grammar/
++ https://findchinesename.com - FindChineseName: native-style Chinese names (not transliterations) with pinyin and meaning
 + 
 ## Colors
 
