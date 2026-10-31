@@ -27,3 +27,4 @@
 + http://www.reddit.com/r/Spanish/comments/zb2ng/using_the_internet_to_learn_spanish_a_guide/
 + http://www.reddit.com/r/learnspanish/comments/2xfdmk/need_translation_of_a_few_uncommon_words_tennis
 + http://howlearnspanish.com/newsletter
++ [CCSE Test](https://ccse-test.com) - free practice for the CCSE Spanish citizenship exam: all 300 official 2026 questions, mock exams and explanations
