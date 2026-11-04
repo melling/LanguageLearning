@@ -23,3 +23,5 @@
 ## Colors
 
 + https://www.reddit.com/r/Chinese/comments/4hy7g4/chinese_colour_wheel_i_made/
+
++ [Chinese Proverbs Hub](https://www.chineseproverbshub.com/) - 726+ Chinese proverbs, idioms (chengyu) and classical quotes with characters, pinyin, English meanings and origin stories. Browse by topic or A–Z.
