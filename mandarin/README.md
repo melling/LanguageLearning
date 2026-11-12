@@ -19,6 +19,8 @@
 + http://www.reddit.com/r/ChineseLanguage/comments/3ah7xv/using_the_kindle_to_learn_chinese_effectively_how
 + https://resources.allsetlearning.com/chinese/grammar/
 + https://findchinesename.com - FindChineseName: native-style Chinese names (not transliterations) with pinyin and meaning
++ https://laoshi.io/hsk-3-0-vocabulary-list-download/ - Laoshi HSK 3.0 word list: the official exam list, word counts per level with sources, CSV downloads
++ https://laoshi.io/pinyin/ - Laoshi Pinyin Converter: Chinese characters to pinyin with tone marks, tone numbers or no tones
 + 
 ## Colors
 
