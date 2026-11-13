@@ -19,6 +19,7 @@
 + http://www.reddit.com/r/ChineseLanguage/comments/3ah7xv/using_the_kindle_to_learn_chinese_effectively_how
 + https://resources.allsetlearning.com/chinese/grammar/
 + https://findchinesename.com - FindChineseName: native-style Chinese names (not transliterations) with pinyin and meaning
++ [HSK Read](https://hskread.com/) - Graded Chinese reading: stories written separately for each HSK level, with a pinyin toggle, audio and tap-a-word definitions. Reading is free; web, iOS and Android.
 + 
 ## Colors
 
