@@ -20,6 +20,7 @@
 + [Show HN: Learner, a German flashcard app](https://news.ycombinator.com/item?id=9162659)
 + http://www.reddit.com/r/duolingo/comments/2x4ktv/german_really_good_app_called_meister_der/
 + http://www.reddit.com/r/duolingo/comments/2xqatr/how_much_german_did_i_really_learn_in_two_weeks/
++ [ReadLingua](https://readlingua.com/) - Learn German by reading graded books (A1 to C1), news and any website on iPhone, iPad and Mac: tap a word to see its translation right above it, then review saved words with flashcards. Freemium, on the [App Store](https://apps.apple.com/app/id6755721145).
 
 ## Time
 
