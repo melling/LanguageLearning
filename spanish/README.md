@@ -16,6 +16,7 @@
 + http://www.reddit.com/r/learnspanish/comments/3ae75u/spanish_grammar_review_for_advanced
 + http://www.reddit.com/r/learnspanish/comments/3ales0/what_is_the_difference_between_caminar_and_andar
 + [Vozelu](https://vozelu.com) - Spanish you type from memory into real sentences read out loud by native speakers, with a spaced repetition schedule built from your answers. You can also practice reading, dialogues and grammar. Free.
++ [ReadLingua](https://readlingua.com/) - Learn Spanish by reading graded books (A1 to C1), news and any website on iPhone, iPad and Mac: tap a word to see its translation right above it, then review saved words with flashcards. Freemium, on the [App Store](https://apps.apple.com/app/id6755721145).
 
 ## In Spanish
 
