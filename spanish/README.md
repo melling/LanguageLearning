@@ -29,3 +29,4 @@
 + http://www.reddit.com/r/learnspanish/comments/2xfdmk/need_translation_of_a_few_uncommon_words_tennis
 + http://howlearnspanish.com/newsletter
 + [CCSE Test](https://ccse-test.com) - free practice for the CCSE Spanish citizenship exam: all 300 official 2026 questions, mock exams and explanations
++ [DELE A2 mock exam](https://guiaextranjeros.es/en/simulacro-dele-a2/?s=gh_melling_dele) - free full DELE A2 practice exam in the 2020 format: all four papers with official timings, audio played twice without pause as in the real exam, and a practice mode with explanations in English. The first reading task is open; the full exam unlocks free after confirming an email
