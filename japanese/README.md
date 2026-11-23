@@ -29,6 +29,7 @@
 + http://www.reddit.com/r/LearnJapanese/comments/2xn2p0/kanji_frequency_in_wikipedia_as_august_2014_jis_x
 + http://www.reddit.com/r/LearnJapanese/comments/2s55tz/3002_most_used_kanji_makes_up_95_of_whats_in/
 + [Nihongo to Japan](https://www.nihongotojapan.com/en/grammar) – free JLPT N5–N1 grammar guides with example sentences, plus 191 self-study lessons and quizzes
++ [JLPT Read](https://jlptread.com/) – graded Japanese reading for JLPT N5–N1: short stories written at two adjacent levels, with optional furigana, translations, audio and tap-a-word lookups. Free to read; kana charts and kanji lists included.
 
 
 ## Hiragana
